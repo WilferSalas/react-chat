@@ -2,6 +2,7 @@
 
 _Chat hecho con React, Node y Socket IO_
 
+Link del proyecto desplegado con Heroku y Netlify: https://5f5047b2997b3c393a55720b--priceless-jennings-6c82cc.netlify.app/chat?name=Wilfer&room=React
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
