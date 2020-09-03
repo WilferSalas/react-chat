@@ -30,8 +30,6 @@ $ npm install
 $ npm start
 ```
 
-![Alt Text](https://s7.gifyu.com/images/Screenrecorder-2020-07-19-16-22c40910cfdb762033.gif)
-
 ## Construido con 🛠️
 
 * [React](reactjs.org)
